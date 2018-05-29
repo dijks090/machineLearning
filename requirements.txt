@@ -1,0 +1,13 @@
+numpy
+scipy
+keras
+ipython
+jupyter
+six
+protobuf==3.1.0
+wheel
+tensorflow==1.5
+graphviz
+matplotlib
+pandas
+sklearn
